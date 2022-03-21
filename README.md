@@ -11,7 +11,7 @@ LED 0 flashing at 1 Hz was obtained by setting the value of N to 100,000,000.
 <img src="https://user-images.githubusercontent.com/79804729/159369261-81548d32-b29c-43c5-9f7f-d01f676b62de.png" width="90%"></img>
 
 ###### Verification results
-
+<img src="https://user-images.githubusercontent.com/79804729/159369696-b217b72a-932f-4159-bf6e-1cdd24ec2e53.gif" width="90%"></img> 
 
 ###### Files description
 
@@ -33,7 +33,7 @@ Miganie diody LED0 z częstotliwością 1 Hz, zostało uzyskane poprzez ustawien
 <img src="https://user-images.githubusercontent.com/79804729/159369261-81548d32-b29c-43c5-9f7f-d01f676b62de.png" width="90%"></img>
 
 ###### Wyniki weryfikacji
-
+<img src="https://user-images.githubusercontent.com/79804729/159369696-b217b72a-932f-4159-bf6e-1cdd24ec2e53.gif" width="90%"></img> 
 
 ###### Opis plików
 
