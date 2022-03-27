@@ -8,10 +8,10 @@ The result of the verification on the board is presented at the output of the sy
 LED 0 flashing at 1 Hz was obtained by setting the value of N to 100,000,000.
 
 ###### Simulation results
-<img src="https://user-images.githubusercontent.com/79804729/159369261-81548d32-b29c-43c5-9f7f-d01f676b62de.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/79804729/159369261-81548d32-b29c-43c5-9f7f-d01f676b62de.png" width="100%"></img>
 
 ###### Verification results
-<img src="https://user-images.githubusercontent.com/79804729/159369696-b217b72a-932f-4159-bf6e-1cdd24ec2e53.gif" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/79804729/159369696-b217b72a-932f-4159-bf6e-1cdd24ec2e53.gif" width="100%"></img> 
 
 ###### Files description
 
@@ -30,10 +30,10 @@ Wynik weryfikacji na płytce jest przedstawiony na wyjściu układu, czyli diodz
 Miganie diody LED0 z częstotliwością 1 Hz, zostało uzyskane poprzez ustawienie wartości N na wartość 100,000,000.
 
 ###### Wyniki symulacji
-<img src="https://user-images.githubusercontent.com/79804729/159369261-81548d32-b29c-43c5-9f7f-d01f676b62de.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/79804729/159369261-81548d32-b29c-43c5-9f7f-d01f676b62de.png" width="100%"></img>
 
 ###### Wyniki weryfikacji
-<img src="https://user-images.githubusercontent.com/79804729/159369696-b217b72a-932f-4159-bf6e-1cdd24ec2e53.gif" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/79804729/159369696-b217b72a-932f-4159-bf6e-1cdd24ec2e53.gif" width="100%"></img> 
 
 ###### Opis plików
 
